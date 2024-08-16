@@ -9,6 +9,6 @@ function setup() {
     
     if(mouseIPressed){
        rect(mouseX, mouseY, 20, 35);
-    }
+}
     
   }
